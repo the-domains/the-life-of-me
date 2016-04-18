@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Life of Me]]></title>
         <description><![CDATA[The Life of Me]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-life-of-me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 20:05:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Apr 2016 20:09:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-life-of-me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2153fa6-1e9f-4ed9-a830-73448ad0a8f3.jpg">]]></description>
-            <link>undefined6728c17f-f46e-48aa-9075-e07e2984c387/index.html</link>
+            <link>https://thegrid.ai/the-life-of-me/6728c17f-f46e-48aa-9075-e07e2984c387/index.html</link>
             <guid isPermaLink="false">6728c17f-f46e-48aa-9075-e07e2984c387</guid>
-            <pubDate>Mon, 18 Apr 2016 20:05:01 GMT</pubDate>
+            <pubDate>Mon, 18 Apr 2016 20:09:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
